@@ -50,8 +50,7 @@ YouTube Embed API → product & unboxing videos.
 
 1. Clone the repository:
 
-git clone https://github.com/<dhakshainichennu>/Boult-Mustang-Earbuds-Site.git
-
+git clone https://github.com/chennudhakshaini/Boult-Mustang-Earbuds-Site
 
 2. Open the project folder.
 
