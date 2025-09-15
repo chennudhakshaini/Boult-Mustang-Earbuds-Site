@@ -14,6 +14,7 @@ const countdown = () => {
   const secs = Math.floor((diff % (1000*60))/1000);
 
   document.getElementById("timer").innerHTML = 
-    ${days}d : ${hours}h : ${mins}m : ${secs}s;
+    `${days}d : ${hours}h : ${mins}m : ${secs}s`;
 }
+
 setInterval(countdown, 1000);
